@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surya319
-- 👀 Frontend developer
+- 👀 UI Developer
 
 <!---
 surya319/surya319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
